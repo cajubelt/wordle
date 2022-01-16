@@ -1,0 +1,13 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "A word game based on the popular web app by the same name (Wordle)",
+  "main": "dist/index.js",
+  "author": "Charlie Andrews-Jubelt",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
